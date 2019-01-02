@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstract_class_methods_example/abstract_class_methods_example.iml" filepath="$PROJECT_DIR$/abstract_class_methods_example/abstract_class_methods_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ws-eclipse.iml" filepath="$PROJECT_DIR$/.idea/ws-eclipse.iml" />
     </modules>
   </component>
