@@ -31,6 +31,10 @@ public class Product {
         return p.getPrice() >= 100.0;
     }
 
+    public boolean nonStaticProductPredicate() {
+        return this.price >= 100.0;
+    }
+
     @Override
     public String toString() {
         return this.getName() + ", " + this.getPrice();
