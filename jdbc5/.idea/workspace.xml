@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/../jdbc2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jdbc3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jdbc4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lambda_stream_exercise_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda_stream_exercise_1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lambda_stream_exercise_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lambda_stream_exercise_2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../streams_example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../streams_example/.idea/workspace.xml" afterDir="false" />
@@ -24,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/src/application/Program.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="423">
-              <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+              <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -35,7 +36,7 @@
             <state relative-caret-position="96">
               <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
               <folding>
-                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -106,11 +107,16 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548201825917" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548201997642" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jdbc6" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\temp\ws-eclipse" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -159,9 +165,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15458423" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15618336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -170,7 +175,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3296582" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -200,20 +205,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/application/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/db/DbIntegrityException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
           <folding>
-            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/application/Program.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
         </state>
       </provider>
     </entry>
